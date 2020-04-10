@@ -1,0 +1,2 @@
+broadwayPlaybillARProject/* filter=lfs diff=lfs merge=lfs -text
+broadwayPlaybillARProject/** filter=lfs diff=lfs merge=lfs -text
